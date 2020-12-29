@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  gitlab:
+  - apiVersion: v1
+    appVersion: 13.2.0
+    # created: "2020-07-07T23:39:32.36316513Z"
+    description: PlatformOne Gitlab chart package
+    # digest: 3501edba1c925864893b56bc70be778b4122d44e33d9553e03949aa115e2a0ea
+    name: gitlab
+    urls:
+    - https://wilderk.github.io/helmrepo/gitlab-4.2.0.tgz
+    version: 4.2.0
